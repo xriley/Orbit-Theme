@@ -12,7 +12,7 @@ The template comes with **6 colour schemes**. The source LESS files are included
 
 This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
 
-If you'd like to **use the template without the attribution**, you can check out **other license options** via the [theme website](http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/)
+If you'd like to **use the template without the attribution**, you can check out **other license options** via the [theme website](http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/)
 
 ####Follow Xiaoying
 
