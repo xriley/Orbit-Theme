@@ -1,4 +1,4 @@
-##CV Daniel Althviz Moré
+##Daniel Althviz Moré CV
 
 In progress...
 
