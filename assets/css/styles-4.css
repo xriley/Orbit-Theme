@@ -156,6 +156,7 @@ p {
   background: #fff;
   padding: 60px;
   padding-right: 300px;
+  page-break-before: always;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
@@ -189,6 +190,7 @@ p {
 }
 .main-wrapper .section {
   margin-bottom: 60px;
+  page-break-inside: avoid;
 }
 .main-wrapper .experiences-section .item {
   margin-bottom: 30px;
