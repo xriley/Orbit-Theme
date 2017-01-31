@@ -43,26 +43,6 @@ p {
   line-height: 1.5;
 }
 
-.horizontal-skillset{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-.skill-category{
-  float: left;
-  margin: 0px 5px;
-}
-
-.skill-category .skill-title {
-  display: block;
-  text-align: center;
-  font-size: 14px;
-}
-
-.skills {
-  padding: 0;
-}
 
 .wrapper {
   background: #4CAC9D;
@@ -77,7 +57,7 @@ p {
   background: #4CAC9D;
   position: absolute;
   right: 0;
-  width: 240px;
+  width: 300px;
   height: 100%;
   min-height: 800px;
   color: #fff;
@@ -122,7 +102,7 @@ p {
   font-size: 14px;
 }
 .sidebar-wrapper .container-block {
-  padding: 30px;
+  padding: 0 30px;
 }
 .sidebar-wrapper .container-block-title {
   text-transform: uppercase;
@@ -136,9 +116,21 @@ p {
   margin-top: 0;
   margin-bottom: 5px;
 }
-.sidebar-wrapper .education-container .item {
+
+.sidebar-wrapper .summary-container, .sidebar-wrapper .education-container {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+.sidebar-wrapper .contact-container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/*.sidebar-wrapper .education-container .item {
   margin-bottom: 15px;
 }
+
 .sidebar-wrapper .education-container .item:last-child {
   margin-bottom: 0;
 }
@@ -164,7 +156,7 @@ p {
 }
 .sidebar-wrapper .languages-list li:last-child {
   margin-bottom: 0;
-}
+}*/
 .sidebar-wrapper .interests-list {
   margin-bottom: 0;
 }
@@ -177,7 +169,7 @@ p {
 .main-wrapper {
   background: #fff;
   padding: 60px;
-  padding-right: 300px;
+  padding-right: 360px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
