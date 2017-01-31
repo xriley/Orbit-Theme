@@ -122,12 +122,16 @@ p {
   padding-bottom: 20px;
 }
 
+.summary-container p{
+  line-height: 2.4;
+}
+
 .sidebar-wrapper .contact-container {
   padding-top: 20px;
   padding-bottom: 20px;
 }
 
-/*.sidebar-wrapper .education-container .item {
+.sidebar-wrapper .education-container .item {
   margin-bottom: 15px;
 }
 
@@ -156,7 +160,7 @@ p {
 }
 .sidebar-wrapper .languages-list li:last-child {
   margin-bottom: 0;
-}*/
+}
 .sidebar-wrapper .interests-list {
   margin-bottom: 0;
 }
