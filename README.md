@@ -1,6 +1,6 @@
 <a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/Responsive-HTML5-Resume-CV-Template-for-Developers.png" alt="Bootstrap 4 Resume/CV Template for Developers" /></a>
 
-##Theme Details & Demo
+## Theme Details & Demo
 
 **Demo:** https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/
 
@@ -8,13 +8,13 @@ Orbit is a free Bootstrap 4 resume/CV template designed for developers. Looking 
 
 The template comes with **6 colour schemes**. The source SCSS files are included so it’s quick and easy to change the styling and colour scheme.
 
-##Author & License
+## Author & License
 
 This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
 
 If you'd like to **use the template without the attribution**, you can check out our **commercial license options** via the [theme website](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/)
 
-####Follow Xiaoying
+#### Follow Xiaoying
 
 [Twitter](https://twitter.com/3rdwave_themes)
 
@@ -25,12 +25,12 @@ If you'd like to **use the template without the attribution**, you can check out
 [Linkedin](https://uk.linkedin.com/in/xiaoying)
 
 
-##Latest Version
+## Latest Version
 **v2.0** - 15 July 2018
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/?target=changelog)
 
-##Colour Schemes
+## Colour Schemes
 
 #### Colour 1 (orbit-1.css)
 <img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-1.jpg" width="300" alt="Orbit color 1" />
@@ -50,7 +50,7 @@ If you'd like to **use the template without the attribution**, you can check out
 #### Colour 6 (orbit-6.css)
 <img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-6.jpg" width="300" alt="Orbit color 6" />
 
-##Features
+## Features
 
 -  Fully Responsive
 -  HTML5 + CSS3
@@ -60,6 +60,6 @@ If you'd like to **use the template without the attribution**, you can check out
 -  1000+ FontAwesome 5 icons
 -  Compatible with all modern browsers
 
-##Credits
+## Credits
 - [Bootstrap](http://getbootstrap.com/)
 - [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
