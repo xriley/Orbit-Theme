@@ -1,4 +1,4 @@
-<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2016/01/Responsive-HTML5-Resume-CV-Template-for-Developers.png" alt="Bootstrap 4 Resume/CV Template for Developers" /></a>
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/07/Bootstrap-Resume-CV-Template-for-Developers.jpg" alt="Bootstrap 4 Resume/CV Template for Developers" /></a>
 
 ## Theme Details & Demo
 
@@ -21,6 +21,8 @@ If you'd like to **use the template without the attribution**, you can check out
 [Facebook](https://www.facebook.com/3rdwavethemes/)
 
 [Dribbble](https://dribbble.com/Xiaoying)
+
+[Medium](https://medium.com/@3rdwave_themes)
 
 [Linkedin](https://uk.linkedin.com/in/xiaoying)
 
