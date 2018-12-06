@@ -8,6 +8,12 @@ Orbit is a free Bootstrap 4 resume/CV template designed for developers. Looking 
 
 The template comes with **6 colour schemes**. The source SCSS files are included so it’s quick and easy to change the styling and colour scheme.
 
+**Want to have a printable version?**
+We’ve released a [free Sketch template](https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/) for this theme. [Download Now](https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/)
+
+<a href="https://themes.3rdwavemedia.com/resources/sketch-template/orbit-sketch-sketch-resume-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2018/12/orbit-theme-sketch-template-promo.png" alt="Sketch Resume Template for Developers" /></a>
+
+
 ## Author & License
 
 This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE under the [Creative Commons Attribution 3.0 License (CC BY 3.0)](http://creativecommons.org/licenses/by/3.0/)
