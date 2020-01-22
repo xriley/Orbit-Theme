@@ -1,0 +1,9 @@
+image: gitpod/workspace-full 
+tasks:
+  - name: SERVE
+    openIn: right
+    openMode: tab-before
+    command: npx live-server
+ports:
+  - port: 8080
+    onOpen: open-browser
