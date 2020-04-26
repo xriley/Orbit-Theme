@@ -1,10 +1,9 @@
 /*! 
  * Template Name: Orbit - Bootstrap 4 Resume/CV Template for Developers
- * Version: 2.0
+ * Version: 2.1
  * Author: Xiaoying Riley
  * Copyright: 3rd Wave Media
  * Twitter: @3rdwave_themes
- * License: Creative Commons Attribution 3.0 License
  * Website: http://themes.3rdwavemedia.com/
 */
 body {
@@ -22,15 +21,15 @@ h1, h2, h3, h4, h5, h6 {
 
 a {
   color: #6e3852;
-  -webkit-transition: all 0.4s ease-in-out;
-  -moz-transition: all 0.4s ease-in-out;
-  -ms-transition: all 0.4s ease-in-out;
-  -o-transition: all 0.4s ease-in-out;
 }
 
 a:hover {
   text-decoration: underline;
   color: #3c1e2c;
+  -webkit-transition: all 0.4s ease-in-out;
+  -moz-transition: all 0.4s ease-in-out;
+  -ms-transition: all 0.4s ease-in-out;
+  -o-transition: all 0.4s ease-in-out;
 }
 
 a:focus {
