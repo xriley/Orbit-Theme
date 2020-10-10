@@ -34,7 +34,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**v2.0** - 26 April 2020
+**v2.2** - 10 Oct 2020
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/?target=changelog)
 
