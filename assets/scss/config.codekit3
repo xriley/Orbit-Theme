@@ -7,7 +7,7 @@
       "uuidString" : "BE9C3824-9DB2-433D-A549-979C692C8553"
     }
   ],
-  "creatorBuild" : "34365",
+  "creatorBuild" : "34576",
   "files" : {
     "\/orbit-1.scss" : {
       "aP" : 1,
@@ -672,6 +672,10 @@
         "active" : 0,
         "optionString" : "'always', {exceptAfterSingleLine: false}"
       },
+      "logical-assignment-operators" : {
+        "active" : 0,
+        "optionString" : "'always',  {'enforceForIfStatements': false}"
+      },
       "max-classes-per-file" : {
         "active" : 0,
         "optionString" : "1"
@@ -832,6 +836,9 @@
       "no-empty-pattern" : {
         "active" : 1
       },
+      "no-empty-static-block" : {
+        "active" : 0
+      },
       "no-eq-null" : {
         "active" : 0
       },
@@ -863,7 +870,8 @@
         "active" : 1
       },
       "no-fallthrough" : {
-        "active" : 1
+        "active" : 1,
+        "optionString" : "{'allowEmptyCase': false}"
       },
       "no-floating-decimal" : {
         "active" : 0
@@ -971,7 +979,7 @@
       "no-new-func" : {
         "active" : 0
       },
-      "no-new-object" : {
+      "no-new-native-nonconstructor" : {
         "active" : 0
       },
       "no-new-symbol" : {
@@ -985,6 +993,9 @@
       },
       "no-obj-calls" : {
         "active" : 1
+      },
+      "no-object-constructor" : {
+        "active" : 0
       },
       "no-octal" : {
         "active" : 1
@@ -1025,7 +1036,8 @@
         "optionString" : "'event', 'fdescribe'"
       },
       "no-restricted-imports" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : ""
       },
       "no-restricted-properties" : {
         "active" : 0,
@@ -1038,9 +1050,6 @@
       "no-return-assign" : {
         "active" : 0,
         "optionString" : "'except-parens'"
-      },
-      "no-return-await" : {
-        "active" : 0
       },
       "no-script-url" : {
         "active" : 0
@@ -1653,11 +1662,12 @@
       "createDeclarationFile" : 0,
       "jsxMode" : 0,
       "minifierStyle" : 0,
+      "moduleDetectionType" : 0,
       "moduleResolutionType" : 0,
       "moduleType" : 2,
       "removeComments" : 0,
       "sourceMapStyle" : 0,
-      "targetECMAVersion" : 0
+      "targetECMAVersion" : 2018
     },
     "languageDefaultsUserDefined" : [
 
@@ -1709,10 +1719,14 @@
       "ENVIRONMENT:::$NODE_ENV"
     ],
     "rollupTreeshakingEnabled" : 1,
+    "rollupTreeshakingModuleSideEffects" : 1,
     "skippedFoldersString" : "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
     "sourceFolderName" : "source",
     "susyVersion" : 3,
+    "tsAllowArbitraryExtensions" : 0,
+    "tsAllowImportingTSExtensions" : 0,
     "tsAllowSyntheticDefaultImports" : 0,
+    "tsAllowUMDGlobalAccess" : 0,
     "tsAllowUnreachableCode" : 0,
     "tsAllowUnusedLabels" : 0,
     "tsAlwaysStrict" : 0,
@@ -1721,36 +1735,36 @@
     "tsEmitDecoratorMetadata" : 0,
     "tsESModuleInterop" : 0,
     "tsExactOptionalPropertyTypes" : 0,
+    "tsExperimentalDecorators" : 0,
     "tsForceConsistentCasingInFileNames" : 0,
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
     "tsJSXFactory" : "React.createElement",
-    "tsKeyofStringsOnly" : 0,
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,
     "tsNoImplicitOverride" : 0,
     "tsNoImplicitReturns" : 0,
     "tsNoImplicitThis" : 0,
-    "tsNoImplicitUseStrict" : 0,
     "tsNoLib" : 0,
     "tsNoPropertyAccessFromIndexSignature" : 0,
     "tsNoResolve" : 0,
-    "tsNoStrictGenericChecks" : 0,
     "tsNoUncheckedIndexAccess" : 0,
     "tsNoUnusedLocals" : 0,
     "tsNoUnusedParameters" : 0,
     "tsPreserveConstEnums" : 0,
     "tsPreserveSymlinks" : 0,
     "tsResolveJsonModule" : 0,
+    "tsSkipDefaultLibCheck" : 0,
     "tsSkipLibCheck" : 0,
+    "tsStrictBindCallApply" : 0,
     "tsStrictFunctionTypes" : 0,
     "tsStrictNullChecks" : 0,
     "tsStrictPropertyInitialization" : 0,
     "tsStripInternal" : 0,
-    "tsSuppressExcessPropertyErrors" : 0,
-    "tsSuppressImplicitAnyIndexErrors" : 0,
+    "tsUseDefineForClassFields" : 0,
     "tsUseUnknownInCatchVariables" : 0,
+    "tsVerbatimModuleSyntax" : 0,
     "uglifyDefinesString" : "",
     "uglifyFlags2" : {
       "arguments" : {
@@ -1783,7 +1797,7 @@
       },
       "comments" : {
         "active" : 0,
-        "flagValue" : -1
+        "flagValue" : 1
       },
       "comparisons" : {
         "active" : 1,

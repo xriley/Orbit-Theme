@@ -22,7 +22,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 #### Follow Xiaoying
 
-[Twitter](https://twitter.com/3rdwave_themes)
+[X](https://twitter.com/3rdwave_themes)
 
 [Facebook](https://www.facebook.com/3rdwavethemes/)
 
@@ -34,7 +34,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 
 
 ## Latest Version
-**Bootstrap v2.0** - 2022-06-15
+**Bootstrap v3.1** - 2024-09-18
 
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/?target=changelog)
 
