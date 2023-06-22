@@ -1,6 +1,7 @@
 accessibility:
   icons:
     - accessible-icon
+    - address-card
     - audio-description
     - braille
     - circle-info
@@ -38,6 +39,7 @@ alert:
 alphabet:
   icons:
     - a
+    - address-card
     - b
     - c
     - circle-h
@@ -422,6 +424,7 @@ business:
     - square-phone-flip
     - square-poll-horizontal
     - square-poll-vertical
+    - stapler
     - table
     - table-columns
     - tag
@@ -505,6 +508,7 @@ charts-diagrams:
     - chart-line
     - chart-pie
     - chart-simple
+    - circle-half-stroke
     - diagram-next
     - diagram-predecessor
     - diagram-project
@@ -552,6 +556,8 @@ clothing-fashion:
     - shoe-prints
     - socks
     - user-tie
+    - vest
+    - vest-patches
   label: Clothing + Fashion
 coding:
   icons:
@@ -581,12 +587,14 @@ coding:
     - folder
     - folder-open
     - font-awesome
+    - gear
     - gears
     - keyboard
     - laptop-code
     - microchip
     - mug-saucer
     - network-wired
+    - notdef
     - qrcode
     - rectangle-xmark
     - shield
@@ -660,6 +668,7 @@ connectivity:
     - cloud
     - cloud-arrow-down
     - cloud-arrow-up
+    - ethernet
     - globe
     - house-signal
     - rss
@@ -752,6 +761,7 @@ design:
     - splotch
     - spray-can
     - stamp
+    - stapler
     - swatchbook
     - vector-square
     - wand-magic
@@ -808,7 +818,7 @@ disaster:
     - biohazard
     - bugs
     - burst
-    - child-rifle
+    - child-combatant
     - circle-radiation
     - cloud-bolt
     - cloud-showers-heavy
@@ -862,6 +872,7 @@ editing:
     - ellipsis-vertical
     - eye-dropper
     - eye-slash
+    - gear
     - grip
     - grip-lines
     - grip-lines-vertical
@@ -1162,8 +1173,8 @@ gaming:
     - shield-halved
     - skull-crossbones
     - square-full
+    - square-steam
     - steam
-    - steam-square
     - steam-symbol
     - twitch
     - vr-cardboard
@@ -1373,7 +1384,7 @@ humanitarian:
     - car
     - car-on
     - car-tunnel
-    - child-rifle
+    - child-combatant
     - children
     - church
     - circle-h
@@ -1494,7 +1505,7 @@ humanitarian:
     - mountain-sun
     - oil-well
     - parachute-box
-    - people-arrows-left-right
+    - people-arrows
     - people-group
     - people-line
     - people-pulling
@@ -1589,7 +1600,7 @@ humanitarian:
     - square-nfi
     - square-person-confined
     - square-virus
-    - staff-aesculapius
+    - staff-snake
     - stethoscope
     - suitcase-medical
     - sun-plant-wilt
@@ -1782,6 +1793,7 @@ maps:
     - martini-glass-empty
     - money-bill
     - money-bill-1
+    - monument
     - motorcycle
     - mountain-sun
     - mug-saucer
@@ -2040,7 +2052,7 @@ medical-health:
     - square-h
     - square-plus
     - square-virus
-    - staff-aesculapius
+    - staff-snake
     - star-of-life
     - stethoscope
     - suitcase-medical
@@ -2071,6 +2083,7 @@ money:
   icons:
     - austral-sign
     - baht-sign
+    - bangladeshi-taka-sign
     - bitcoin
     - bitcoin-sign
     - brazilian-real-sign
@@ -2309,6 +2322,7 @@ religion:
     - book-bible
     - book-journal-whills
     - book-quran
+    - book-tanakh
     - church
     - cross
     - dharmachakra
@@ -2384,6 +2398,7 @@ science-fiction:
     - old-republic
     - robot
     - rocket
+    - space-awesome
     - user-astronaut
   label: Science Fiction
 security:
@@ -2457,6 +2472,7 @@ shapes:
     - calendar
     - certificate
     - circle
+    - circle-half-stroke
     - cloud
     - clover
     - comment
@@ -2693,8 +2709,8 @@ time:
     - calendar-xmark
     - clock
     - hourglass
-    - hourglass-empty
     - hourglass-end
+    - hourglass-half
     - hourglass-start
     - stopwatch
     - stopwatch-20
@@ -2724,6 +2740,7 @@ transportation:
     - bicycle
     - bus
     - bus-simple
+    - cable-car
     - car
     - car-burst
     - car-rear
@@ -2781,6 +2798,7 @@ travel-hotel:
     - briefcase
     - bus
     - bus-simple
+    - cable-car
     - car
     - caravan
     - cart-flatbed-suitcase
@@ -2830,6 +2848,7 @@ travel-hotel:
     - suitcase-rolling
     - taxi
     - toilet
+    - toilet-paper
     - train-tram
     - tree-city
     - tv
@@ -2875,7 +2894,7 @@ users-people:
     - id-card-clip
     - image-portrait
     - mars-and-venus-burst
-    - people-arrows-left-right
+    - people-arrows
     - people-carry-box
     - people-group
     - people-line
@@ -3023,6 +3042,7 @@ writing:
     - folder-open
     - keyboard
     - newspaper
+    - notdef
     - note-sticky
     - paper-plane
     - paperclip

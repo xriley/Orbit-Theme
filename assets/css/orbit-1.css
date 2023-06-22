@@ -1,6 +1,6 @@
 /*! 
  * Template Name: Orbit - Bootstrap 5 Resume/CV Template for Developers
- * Version: Bootstrap 5 v2.0
+ * Version: Bootstrap 5 v3.0
  * Author: Xiaoying Riley
  * Copyright: 3rd Wave Media
  * Twitter: @3rdwave_themes
@@ -265,17 +265,14 @@ p {
     position: static;
     width: inherit;
   }
-
   .main-wrapper {
     padding: 30px;
   }
-
   .main-wrapper .time {
     position: static;
     display: block;
     margin-top: 5px;
   }
-
   .main-wrapper .upper-row {
     margin-bottom: 0;
   }
