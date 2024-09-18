@@ -36,6 +36,7 @@ If you'd like to **use the template without the attribution link**, you can [buy
 ## Latest Version
 **Bootstrap v3.1** - 2024-09-18
 
+
 [Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/?target=changelog)
 
 ## Colour Schemes

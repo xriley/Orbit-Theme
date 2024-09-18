@@ -44,6 +44,8 @@ p {
   max-width: 960px;
   margin: 0 auto;
   position: relative;
+  -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
@@ -170,6 +172,10 @@ p {
   margin-right: 8px;
   display: inline-block;
   color: #fff;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
   border-radius: 50%;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
@@ -238,6 +244,10 @@ p {
 .skillset .level-bar {
   height: 12px;
   background: #f5f5f5;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
   border-radius: 2px;
   -moz-background-clip: padding;
   -webkit-background-clip: padding-box;
